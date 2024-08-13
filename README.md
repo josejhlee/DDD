@@ -1,4 +1,4 @@
-# Disrupting Diffusion-based Inpainters with Semantic Digression
+# [IJCAI24] Disrupting Diffusion-based Inpainters with Semantic Digression
 
 [paper](https://www.arxiv.org/pdf/2407.10277)
 
